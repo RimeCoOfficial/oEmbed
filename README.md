@@ -1,4 +1,4 @@
-![](../../wiki/img/oEmbedFeaturedImage.png)
+![](/images/oEmbedFeaturedImage.png)
 
 ## oEmbed
 `Make the Web Embeddable. </>`
