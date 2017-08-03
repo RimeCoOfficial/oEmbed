@@ -1,1 +1,1 @@
-![](/images/Screen Shot 2016-11-08 at 2.06.54 PM.png)
+![](./images/Screen%20Shot%202016-11-08%20at%202.06.54%20PM.png)
